@@ -1,12 +1,12 @@
 {
-	'users': {
-		'admin': {
-			'name': '',
-			'password': '',
+	"users": {
+		"admin": {
+			"name": "",
+			"password": ""
 		},
-		'user': {
-			'name': '',
-			'password': ''
+		"user": {
+			"name": "",
+			"password": ""
 		}
 	}
 }
