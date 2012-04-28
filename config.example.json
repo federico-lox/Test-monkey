@@ -1,0 +1,12 @@
+{
+	users: {
+		admin: {
+			name: '',
+			password: '',
+		},
+		user: {
+			name: '',
+			password: ''
+		}
+	}
+}
